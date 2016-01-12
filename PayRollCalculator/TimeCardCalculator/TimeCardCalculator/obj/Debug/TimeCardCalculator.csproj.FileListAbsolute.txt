@@ -1,0 +1,39 @@
+c:\users\stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculator\bin\Debug\TimeCardCalculator.exe.config
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculator\bin\Debug\TimeCardCalculator.exe
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculator\bin\Debug\TimeCardCalculator.pdb
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculator\obj\Debug\MainWindow.baml
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculator\obj\Debug\App.g.cs
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator_MarkupCompile.cache
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.g.resources
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.Properties.Resources.resources
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.csproj.GenerateResource.Cache
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.exe
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.pdb
+C:\Users\Stock1\Documents\GitHub\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\bin\Debug\TimeCardCalculator.exe.config
+C:\Users\Stock1\Documents\GitHub\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.exe
+C:\Users\Stock1\Documents\GitHub\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.pdb
+C:\Users\Stock1\Documents\GitHub\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\bin\Debug\TimeCardCalculator.exe
+C:\Users\Stock1\Documents\GitHub\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\bin\Debug\TimeCardCalculator.pdb
+C:\Users\Stock1\Documents\GitHub\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Stock1\Documents\GitHub\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\MainWindow.baml
+C:\Users\Stock1\Documents\GitHub\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Stock1\Documents\GitHub\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\App.g.cs
+C:\Users\Stock1\Documents\GitHub\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator_MarkupCompile.cache
+C:\Users\Stock1\Documents\GitHub\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.g.resources
+C:\Users\Stock1\Documents\GitHub\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.Properties.Resources.resources
+C:\Users\Stock1\Documents\GitHub\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.csproj.GenerateResource.Cache
+C:\Users\Stock1\Documents\Visual Studio 2013\Projects\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\bin\Debug\TimeCardCalculator.exe.config
+C:\Users\Stock1\Documents\Visual Studio 2013\Projects\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.exe
+C:\Users\Stock1\Documents\Visual Studio 2013\Projects\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.pdb
+C:\Users\Stock1\Documents\Visual Studio 2013\Projects\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\bin\Debug\TimeCardCalculator.exe
+C:\Users\Stock1\Documents\Visual Studio 2013\Projects\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\bin\Debug\TimeCardCalculator.pdb
+C:\Users\Stock1\Documents\Visual Studio 2013\Projects\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Stock1\Documents\Visual Studio 2013\Projects\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\MainWindow.baml
+C:\Users\Stock1\Documents\Visual Studio 2013\Projects\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Stock1\Documents\Visual Studio 2013\Projects\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\App.g.cs
+C:\Users\Stock1\Documents\Visual Studio 2013\Projects\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator_MarkupCompile.cache
+C:\Users\Stock1\Documents\Visual Studio 2013\Projects\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.g.resources
+C:\Users\Stock1\Documents\Visual Studio 2013\Projects\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.Properties.Resources.resources
+C:\Users\Stock1\Documents\Visual Studio 2013\Projects\PayRollCalculator\TimeCardCalculator\TimeCardCalculator\obj\Debug\TimeCardCalculator.csproj.GenerateResource.Cache

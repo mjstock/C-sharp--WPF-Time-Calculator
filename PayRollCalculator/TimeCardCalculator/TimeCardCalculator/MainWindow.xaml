@@ -1,0 +1,79 @@
+﻿<Window x:Class="TimeCardCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Time Calculator" Height="327.227" Width="1069.837">
+    <Grid>
+        <GroupBox Header="Monday" HorizontalAlignment="Left" Margin="26,26,0,0" VerticalAlignment="Top" Height="90" Width="130">
+            <Grid >
+                <Label Content="Hours" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblHoursMon" Content="" HorizontalAlignment="Left" Margin="66,35,0,0" VerticalAlignment="Top" Width="40"/>
+                <TextBox x:Name="txtMonHour" HorizontalAlignment="Left" Height="26" Margin="10,9,0,0" VerticalAlignment="Top" Width="40"  MaxLength="2" MaxLines="1" TextAlignment="Right" VerticalContentAlignment="Center" TabIndex="1" LostFocus="txtMonHour_LostFocus" Text="0"/>
+                <Label Content=":" HorizontalAlignment="Left" Margin="52,9,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="txtMonMin" HorizontalAlignment="Left" Height="26" Margin="66,9,0,0" VerticalAlignment="Top" Width="40" MaxLength="2" MaxLines="1" VerticalContentAlignment="Center" TabIndex="2" LostFocus="txtMonMin_LostFocus" Text="0"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Tuesday" HorizontalAlignment="Left" Margin="171,26,0,0" VerticalAlignment="Top" Height="90" Width="130">
+            <Grid >
+                <Label Content="Hours" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblHoursTue" Content="" HorizontalAlignment="Left" Margin="66,35,0,0" VerticalAlignment="Top" Width="40"/>
+                <TextBox x:Name="txtTueMin" HorizontalAlignment="Left" Height="26" Margin="66,9,0,0" VerticalAlignment="Top" Width="40" MaxLength="2" MaxLines="1" VerticalContentAlignment="Center" TabIndex="4" LostFocus="txtTueMin_LostFocus" Text="0"/>
+                <TextBox x:Name="txtTueHour" HorizontalAlignment="Left" Height="26" Margin="10,9,0,0" VerticalAlignment="Top" Width="40" MaxLength="2" MaxLines="1" TextAlignment="Right" VerticalContentAlignment="Center" TabIndex="3" LostFocus="txtTueHour_LostFocus" Text="0"/>
+                <Label Content=":" HorizontalAlignment="Left" Margin="52,9,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Wensday" HorizontalAlignment="Left" Margin="316,26,0,0" VerticalAlignment="Top" Height="90" Width="130">
+            <Grid >
+                <Label Content="Hours" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblHoursWen" Content="" HorizontalAlignment="Left" Margin="66,35,0,0" VerticalAlignment="Top" Width="40"/>
+                <TextBox x:Name="txtWenHour" HorizontalAlignment="Left" Height="26" Margin="10,9,0,0" VerticalAlignment="Top" Width="40" MaxLength="2" MaxLines="1" TextAlignment="Right" VerticalContentAlignment="Center" TabIndex="5" LostFocus="txtWenHour_LostFocus" Text="0"/>
+                <TextBox x:Name="txtWenMin" HorizontalAlignment="Left" Height="26" Margin="66,9,0,0" VerticalAlignment="Top" Width="40" MaxLength="2" MaxLines="1" VerticalContentAlignment="Center" TabIndex="6" LostFocus="txtWenMin_LostFocus" Text="0"/>
+                <Label Content=":" HorizontalAlignment="Left" Margin="52,9,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Thursday" HorizontalAlignment="Left" Margin="461,26,0,0" VerticalAlignment="Top" Height="90" Width="130">
+            <Grid >
+                <Label Content="Hours" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblHoursThur" Content="" HorizontalAlignment="Left" Margin="66,35,0,0" VerticalAlignment="Top" Width="40"/>
+                <TextBox x:Name="txtThurHour" HorizontalAlignment="Left" Height="26" Margin="10,9,0,0" VerticalAlignment="Top" Width="40" MaxLength="2" MaxLines="1" TextAlignment="Right" VerticalContentAlignment="Center" TabIndex="7" LostFocus="txtThurHour_LostFocus" Text="0"/>
+                <TextBox x:Name="txtThurMin" HorizontalAlignment="Left" Height="26" Margin="66,9,0,0" VerticalAlignment="Top" Width="40" MaxLength="2" MaxLines="1" VerticalContentAlignment="Center" TabIndex="8" LostFocus="txtThurMin_LostFocus" Text="0"/>
+                <Label Content=":" HorizontalAlignment="Left" Margin="52,9,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Friday" HorizontalAlignment="Left" Margin="606,26,0,0" VerticalAlignment="Top" Height="90" Width="130">
+            <Grid >
+                <Label Content="Hours" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblHoursFri" Content="" HorizontalAlignment="Left" Margin="66,35,0,0" VerticalAlignment="Top" Width="40"/>
+                <TextBox x:Name="txtFriHour" HorizontalAlignment="Left" Height="26" Margin="10,9,0,0" VerticalAlignment="Top" Width="40" MaxLength="2" MaxLines="1" TextAlignment="Right" VerticalContentAlignment="Center" TabIndex="9" LostFocus="txtFriHour_LostFocus" Text="0"/>
+                <TextBox x:Name="txtFriMin" HorizontalAlignment="Left" Height="26" Margin="66,9,0,0" VerticalAlignment="Top" Width="40" MaxLength="2" MaxLines="1" VerticalContentAlignment="Center" TabIndex="10" LostFocus="txtFriMin_LostFocus" Text="0"/>
+                <Label Content=":" HorizontalAlignment="Left" Margin="52,9,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Saturday" HorizontalAlignment="Left" Margin="751,26,0,0" VerticalAlignment="Top" Height="90" Width="130">
+            <Grid >
+                <Label Content="Hours" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblHoursSat" Content="" HorizontalAlignment="Left" Margin="66,35,0,0" VerticalAlignment="Top" Width="40"/>
+                <TextBox x:Name="txtSatHour" HorizontalAlignment="Left" Height="26" Margin="10,9,0,0" VerticalAlignment="Top" Width="40" MaxLength="2" MaxLines="1" TextAlignment="Right" VerticalContentAlignment="Center" TabIndex="11" LostFocus="txtSatHour_LostFocus" Text="0"/>
+                <TextBox x:Name="txtSatMin" HorizontalAlignment="Left" Height="26" Margin="66,9,0,0" VerticalAlignment="Top" Width="40" MaxLength="2" MaxLines="1" VerticalContentAlignment="Center" TabIndex="12" LostFocus="txtSatMin_LostFocus" Text="0"/>
+                <Label Content=":" HorizontalAlignment="Left" Margin="52,9,0,0" VerticalAlignment="Top"/>
+                <Label Content="Label" HorizontalAlignment="Left" Margin="83,58,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Sunday" HorizontalAlignment="Left" Margin="896,26,0,0" VerticalAlignment="Top" Height="90" Width="130">
+            <Grid >
+                <Label Content="Hours" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblHoursSun" Content="" HorizontalAlignment="Left" Margin="66,35,0,0" VerticalAlignment="Top" Width="40"/>
+                <TextBox x:Name="txtSunHour" HorizontalAlignment="Left" Height="26" Margin="10,9,0,0" VerticalAlignment="Top" Width="40" MaxLength="2" MaxLines="1" VerticalContentAlignment="Center" TextAlignment="Right" TabIndex="13" LostFocus="txtSunHour_LostFocus" Text="0"/>
+                <TextBox x:Name="txtSunMin" HorizontalAlignment="Left" Height="26" Margin="66,9,0,0" VerticalAlignment="Top" Width="40" MaxLength="2" MaxLines="1" VerticalContentAlignment="Center" TabIndex="14" LostFocus="txtSunMin_LostFocus" Text="0"/>
+                <Label Content=":" HorizontalAlignment="Left" Margin="52,9,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <Button x:Name="btnReset" Content="Reset" HorizontalAlignment="Left" Margin="226,232,0,0" VerticalAlignment="Top" Width="75" Click="btnReset_Click"/>
+        <Button x:Name="btnExit" Content="Exit" HorizontalAlignment="Left" Margin="316,232,0,0" VerticalAlignment="Top" Width="75" Click="btnExit_Click"/>
+        <Label Content="Total Hours Worked:" HorizontalAlignment="Left" Margin="26,143,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblTotalHours" Content="" HorizontalAlignment="Left" Margin="148,143,0,0" VerticalAlignment="Top" Width="48"/>
+        <Label Content="Reguler" HorizontalAlignment="Left" Margin="93,174,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblRegHours" Content="" HorizontalAlignment="Left" Margin="148,174,0,0" VerticalAlignment="Top" Width="48"/>
+        <Label Content="Over Time" HorizontalAlignment="Left" Margin="79,205,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblOverTime" Content="" HorizontalAlignment="Left" Margin="148,205,0,0" VerticalAlignment="Top" Width="48"/>
+    </Grid>
+</Window>

@@ -1,0 +1,7 @@
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculatorTest\bin\Debug\TimeCardCalculatorTest.dll
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculatorTest\bin\Debug\TimeCardCalculatorTest.pdb
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculatorTest\bin\Debug\TimeCardCalculator.exe
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculatorTest\bin\Debug\TimeCardCalculator.pdb
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculatorTest\obj\Debug\TimeCardCalculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculatorTest\obj\Debug\TimeCardCalculatorTest.dll
+C:\Users\Stock1\documents\visual studio 2013\Projects\TimeCardCalculator\TimeCardCalculatorTest\obj\Debug\TimeCardCalculatorTest.pdb
